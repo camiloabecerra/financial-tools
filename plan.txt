@@ -1,0 +1,5 @@
+- Create basic pricer given all inputs
+- Create GUI that takes inputs and shows price for puts and calls
+- Create form for user to say if they bought/sold option at said price, when they pulled out of the investment, and if they made money.
+- Save data in DB to train neural network for analyzing trades
+- Create a way to get quotes using stock data API that returns real stock prices
